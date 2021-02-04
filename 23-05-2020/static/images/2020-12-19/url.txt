@@ -1,0 +1,2 @@
+http://res.cloudinary.com/dqdtkki8q/image/upload/v1587836823/my_folder/2020-12-19/0.jpg
+http://res.cloudinary.com/dqdtkki8q/image/upload/v1587836824/my_folder/2020-12-19/1.png
